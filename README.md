@@ -86,8 +86,6 @@ Zuletzt abgerufen am 12.05.2020
 
 - [NFC](https://www.netzwelt.de/nfc/index.html)
 
-- [Pepper-Bot](https://www.duesseldorf.de/fileadmin/_processed_/7/4/csm_191010pepper_55f6cb49f6.jpg)
-
 - [SoftBank Robotics](https://softbankrobotics.com/)
 
 - [Humanizing Technologies](https://www.humanizing.com/de/startseite/)
@@ -96,4 +94,6 @@ Zuletzt abgerufen am 12.05.2020
 
 
 ### 8.2 Bildquellen
+
+- [Pepper-Bot](https://www.duesseldorf.de/fileadmin/_processed_/7/4/csm_191010pepper_55f6cb49f6.jpg)
 
