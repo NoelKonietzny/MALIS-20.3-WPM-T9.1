@@ -5,6 +5,21 @@ Datenintensive und datenfokussierte Aktivitäten in der eigenen Bibliothek
 Autor: Noel Konietzny
 
 
+# Inhaltsverzeichnis
+
+1. Einleitung
+
+2. Library Management System aDis/BMS
+
+3. Katalog
+
+4. Roboter
+
+5. Weitere Datenintensive Aktivitäten in der eigenen Bibliothek
+
+6. Fazit
+
+
 # 1. Einleitung
 
 Innerhalb der Stadtbüchereien Düsseldorf gibt es verschiedene Arbeitsbereiche die sehr Daten lastig sind. Dabei gibt es in vielen Bereichen Möglichkeiten einer Optimierung. Hier sollen einige kleine Beispiele genannt und erläutert werden. Des Weiteren werden hier nur kurz andere Bereiche erwähnt, die ebenfalls von Software und Umstrukturierungsprozessen erheblich profitieren würden.
@@ -29,3 +44,8 @@ Im Weiteren ist es so, dass passive Fernleihen nur händisch über die Verbuchun
 # 4. Roboter
 
 Seit dem 07. November 2019, befindet sich des Weiteren ein Pepper Bot der Firma SoftBank Robotics im Bestand der Stadtbüchereien Düsseldorf. Dieser wurde durch die Firma Humanizing Technologies vertrieben und mit Softwareapplikationen versehen. Dieser als Assistent gedachte Roboter bedarf einer großen Menge an Daten, sowie Zeit zur Einpflegung und Programmierung.
+
+# 5. Weitere Datenintensive Aktivitäten in der eigenen Bibliothek
+
+
+# 6. Fazit
