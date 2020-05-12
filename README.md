@@ -62,8 +62,7 @@ Einen anderen Aspekt verfolgt die [Zweigbibliothek Naturwissenschaften der Humbo
 ## 6. Fazit
 
 Es bleibt festzuhalten, dass datenbasierte und datenfokussierte Aktivitäten in der eigenen Bibliothek vielerorts vorhanden sind.
-Deren Potential durch den Einsatz von Software eine Vereinfachung für eine transparentere und nachhaltigere Nutzung 
-
+Deren Potential durch den Einsatz von Software eine Vereinfachung für eine transparentere und nachhaltigere Nutzung zu generieren ist breitflächig gegeben. Zuvor genannte Beispiele haben gezeigt, dass sie Arbeitsschritte vereinfachen, Fehler Quellen minimieren, zur Festigung eines guten Teams beitragen kann, dem Träger Kosten einspart, MitarbeiterInnen unterstützt und entlastet, das Serviceangebot für NutzerInnen erweitert und neue Technologien auf niederschwelligem Niveau einer breiten Öffentlichkeit näher bringt. Dabei gibt es noch viele weitere Aspekte auf die hier nicht eingegangen werden konnte, wie z.B.  Online-Anmeldungen, Digitale Bezahloptionen, Statistiken, Leitsysteme sowie die Onleihe mit ihren E-Medien etc. Das Potential ist hierbei enorm und kann für jede Bibliothek individuelle Ansatzpunkte bieten. Hierbei stehen primär auch eine gute Ausbilding und der Wille der MitarbeiterInnen zur Umsetzung sowie die flankierende fiskalische Unterstützung des Trägers im Mittelpunkt.
 
 
 ## 7. Quellenverzeichnis
