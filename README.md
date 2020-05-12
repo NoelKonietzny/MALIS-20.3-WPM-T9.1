@@ -56,7 +56,7 @@ Im Weiteren ist es so, dass passive Fernleihen nur händisch über die Verbuchun
 
 Seit dem 07. November 2019, befindet sich des Weiteren ein [Pepper-Bot](https://www.duesseldorf.de/medienportal/pressedienst-einzelansicht/pld/pepper-hilft-in-der-zentralbibliothek.html) der Firma [SoftBank Robotics](https://softbankrobotics.com/) im                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Bestand der Stadtbüchereien Düsseldorf. Pixi Pepper wurde durch die Firma [Humanizing Technologies](https://www.humanizing.com/de/startseite/) vertrieben und mit Softwareapplikationen versehen. Dieser als Assistent gedachte Roboter bedarf einer großen Menge an Daten, sowie Zeit zur Einpflegung und Programmierung. Das auf [NAOqi OS](https://technik.lpeshop.de/img/cms/SOFTBANK%20Pepper%20Depliant%20ENG%20num.pdf) laufende System kann mithilfe von Programmiersprachen wie z.B. C++, Java, Python, Libqi C++ & Python sowie ROS bridge frei programmiert werden. Da es sich hierbei um ein nicht proprietäres System handelt, ist dies somit von großem Vorteil für eigene spezifische Applikationsupgrades. Pixi Pepper dient primär als Informations und Orientierungshelfer für Besucher und bietet gleichzeitig den ersten niederschwelligen Kontakt zu humanoiden Robotern für eine breite Bevölkerungsschicht.
 
-Einen anderen Aspekt verfolgt die Zweigbibliothek Naturwissenschaften der Humboldt-Universität am Adlershof im Erwin-Schrödinger-Zentrum Berlin. Hier wird auf ein *„Fahrerloses Transportsystem“* gesetzt. Durch ein an den Wänden verbautes Leitsystem können die beiden Bibliotheksroboter [*„Hase & Igel“*](https://www.morgenpost.de/printarchiv/biz/article104899720/Hase-und-Igel-in-Adlershof.html) Medienkisten zur Unterstützung der Mitarbeiterinnen innerhalb der Bibliothek - auch über Aufzüge Etagenweit - transportieren.
+Einen anderen Aspekt verfolgt die [Zweigbibliothek Naturwissenschaften der Humboldt-Universität am Adlershof im Erwin-Schrödinger-Zentrum Berlin](https://www.ub.hu-berlin.de/de/standorte/erwin-schroedinger-zentrum-zwbib-nawi/standort-informationen/technik-1/fahrerloses-transportsystem-fts-1.html). Hier wird auf ein *„Fahrerloses Transportsystem“* gesetzt. Durch ein an den Wänden verbautes Leitsystem können die beiden Bibliotheksroboter [*„Hase & Igel“*](https://www.morgenpost.de/printarchiv/biz/article104899720/Hase-und-Igel-in-Adlershof.html) Medienkisten zur Unterstützung der Mitarbeiterinnen innerhalb der Bibliothek - auch über Aufzüge Etagenweit - transportieren.
 
 
 ## 6. Fazit
@@ -93,6 +93,8 @@ Zuletzt abgerufen am: 12.05.2020
 - [Humanizing Technologies](https://www.humanizing.com/de/startseite/)
 
 - [NAOqi OS](https://technik.lpeshop.de/img/cms/SOFTBANK%20Pepper%20Depliant%20ENG%20num.pdf)
+
+- [Zweigbibliothek Naturwissenschaften der Humboldt-Universität am Adlershof im Erwin-Schrödinger-Zentrum Berlin](https://www.ub.hu-berlin.de/de/standorte/erwin-schroedinger-zentrum-zwbib-nawi/standort-informationen/technik-1/fahrerloses-transportsystem-fts-1.html)
 
 - [*„Hase & Igel“*](https://www.morgenpost.de/printarchiv/biz/article104899720/Hase-und-Igel-in-Adlershof.html) 
 
