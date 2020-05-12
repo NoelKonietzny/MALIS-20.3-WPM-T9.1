@@ -18,11 +18,11 @@ Autor: Noel Konietzny
 
 5. Roboter
 
-6. Ausblick
+6. Fazit
 
-7. Fazit
-
-8. Quellenverzeichnis
+7. Quellenverzeichnis
+- 7.1 Onlinequellen
+- 7.2 Bildquellen
 
 
 ## 1. Einleitung
@@ -58,17 +58,14 @@ Seit dem 07. November 2019, befindet sich des Weiteren ein [Pepper-Bot](https://
 Einen anderen Aspekt verfolgt die Zweigbibliothek Naturwissenschaften der Humboldt-Universität am Adlershof im Erwin-Schrödinger-Zentrum Berlin. Hier wird auf ein *„Fahrerloses Transportsystem“* gesetzt. Durch ein an den Wänden verbautes Leitsystem können die beiden Bibliotheksroboter [*„Hase & Igel“*](https://www.morgenpost.de/printarchiv/biz/article104899720/Hase-und-Igel-in-Adlershof.html) Medienkisten zur Unterstützung der Mitarbeiterinnen innerhalb der Bibliothek - auch über Aufzüge Etagenweit - transportieren.
 
 
-## 6. Ausblick
+## 6. Fazit
 
 
-## 7. Fazit
+## 7. Quellenverzeichnis
 
+### 7.1 Onlinequellen
 
-## 8. Quellenverzeichnis
-
-### 8.1 Onlinequellen
-
-Zuletzt abgerufen am 12.05.2020
+Zuletzt abgerufen am: 12.05.2020
 
 - [Stadtbüchereien Düsseldorf](https://www.duesseldorf.de/stadtbuechereien/)
 
@@ -97,7 +94,7 @@ Zuletzt abgerufen am 12.05.2020
 - [*„Hase & Igel“*](https://www.morgenpost.de/printarchiv/biz/article104899720/Hase-und-Igel-in-Adlershof.html) 
 
 
-### 8.2 Bildquellen
+### 7.2 Bildquellen
 
 - [Pepper-Bot](https://www.duesseldorf.de/fileadmin/_processed_/7/4/csm_191010pepper_55f6cb49f6.jpg)
 
