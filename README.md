@@ -1,6 +1,6 @@
-### MALIS 19.3 WPMT 9.1
+# MALIS 19.3 WPMT 9.1
 ## Repository for MALIS 19.3 WPM T9.1
-# Datenbasierte Aktivitäten in der eigenen Bibliothek
+### Datenbasierte Aktivitäten in der eigenen Bibliothek
 
 Autor: Noel Konietzny
 
