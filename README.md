@@ -22,6 +22,8 @@ Autor: Noel Konietzny
 
 7. Fazit
 
+8. Quellenverzeichnis
+
 
 # 1. Einleitung
 
@@ -55,3 +57,6 @@ Seit dem 07. November 2019, befindet sich des Weiteren ein Pepper Bot der Firma 
 
 
 # 7. Fazit
+
+
+# 8. Quellenverzeichnis
