@@ -46,7 +46,7 @@ Zusätzlich ist bei den vielen unterschiedlichen Programmen, bei denen man sich 
 
 Die Stadtbüchereien Düsseldorf nehmen des Weiteren an der aktiven und passiven Fernleihe teil. Außer dem obligatorischen Bibliothekskonto der DigiBib bzw. dem hbz müssen bei der Bearbeitung der aktiven & passiven Fernleihen Begleitschreiben beigefügt werden die alle wesentlichen Informationen über das Medium, wie z.B. Titel, Autor, Leihfrist etc. haben. Diese Daten werden über das Fernleihe-Tool in aDis automatisch generiert. Und auch einige Details zu den Leihmodalitäten können über drop down Menüs relativ schnell ausgewählt und eingestellt werden. Dabei sind weitere drop down Menüs nicht aktiv bzw. nur reine Schreibfelder vorhanden. Hier müssen extra vorgefertigte Sätze z.B. über Beschädigungen oder Besonderheiten über die Leihfristen oder die Art der Ausleihe aus einem parallel geführten Word Dokument herauskopiert und in die aDis Maske eingefügt werden. Dies ist nicht nur sehr umständlich, sondern könnte durch die bereits vorhandenen inaktivierten drop down Menüs softwaretechnisch optimiert werden. Aufgrund der nicht sehr hohen Priorität der Fernleihe in einer öffentlichen Bibliothek z.B. im Vergleich zu einer wissenschaftlichen, stehen hier solche Verbesserungen nicht auf der Hauptagenda und im Fokus der Optimierung.
 
-Im Weiteren ist es so, dass passive Fernleihen nur händisch über die Verbuchungstheke durch Mitarbeiter auf die Benutzerkonten gebucht bzw. auch nur so zurückgegeben werden können. Dies liegt an den verschiedenen Sicherungssystemen, wie z.B. Magnetstreifen und FRID-Tags. Durch die des Weiteren in den Bibliotheken unterschiedlichen Systematiken und Bibliotheksmanagementsysteme ist eine maschinelle Rückgabe sehr Fehler lastig und kann die Sicherungssysteme der gebenden Bibliotheken beschädigen, was unbedingt vermieden werden soll. Des Weiteren wäre eine Selbstabholung durch Kunden auch für die zu erweiternden Open Library Zeiten und ggf. Sonntagsöffnungen ohne Fachpersonal wichtig, auch wenn dies nur einen kleinen Teil des Gesamtausleihen ausmacht. Zur Lösung dieses Problems könnte, das in der ULB Düsseldorf seit Jahren bewährte System der RFID-Verbuchung übernommen werden. In der Regel werden alle hauseigenen Medien der ULB Düsseldorf mit Magnetstreifen gesichert und können so in Einzelverbuchung ausgeliehen und über einen Rückgabeautomaten zurückgegeben werden. Für die dort im hohen Maße aufkommenden Fernleihen konnte dies bei Open Library Zeiten ohne Fachpersonal so nicht umgesetzt werden und auch keine Hauseigene Magnetstreifen Sicherung genutzt werden, um die Bücher nicht zu beschädigen. Hier wurde ein Selbstabholbereich auf RFID-Basis zusätzlich eingerichtet. Des Weiteren wurde einer der zwei in der ULB stehenden Rückgabeautomaten auch auf die Annahme von RFID basierten Sicherungen erweitert. Zur praktischen Handhabung werden in die Fernleihmedien [*„reversible“* RFID-Tags nach dänischem Modell](https://publiscologne.th-koeln.de/frontdoor/deliver/index/docId/375/file/PB2013_Reymer_RFID.pdf) eingeklebt.[^fu1] Dabei handelt es sich um Tags, die jederzeit ganz einfach in Medien rein und raus geklebt werden können, ohne diese zu beschädigen bzw. sonst wie zu verändern. Des Weiteren ist die Beschreibung dieser Tags auch dominant gegenüber anderen RFID-Tags, sodass dieses System eine optimale Selbstverbuchung für Kunden in den Servicefreien Zeiten kostengünstig – auch für die Stadtbüchereien Düsseldorf – realisierbar macht, da hier schon von Grund auf RFID verwendet wird und die technischen Infrastruktur schon vorhanden ist. Lediglich die reversiblen RFID-Tags müssten organsiert werden, sowie einige Abläufe in der Fernleihabteilung. Zusätzlich müssten hier dann auch noch softwareoptimierte Prozesse initiiert werden, um eine reibungslose Funktion zu ermöglichen. So könnte in Zukunft auch über Open Library hinaus über *„Buchstationen“* im Sinne einer [DHL Packstation](https://www.dhl.de/de/privatkunden/pakete-empfangen/an-einem-abholort-empfangen/packstation-empfang.html?iaid=20200512210646572522f6cc25bd1e) im Außenbereich der Bibliotheken nachgedacht werden. Diese könnten über die bereits vorhandenen auf [NFC](https://www.netzwelt.de/nfc/index.html) basierten Bibliothekskarten mit zusätzlichem Tan-Verfahren eine 24/7 Rückgabe ermöglichen, oder mit Vorlauf auch eine Abholung von Medien nach Bibliotheksschließung aus der *„Buch-Packstation“* ermöglichen. Auch während einer Pandemie wie Covid-19 könnten so Medien unter Einhaltung der Kontaktbeschränkungen realisiert werden.
+Im Weiteren ist es so, dass passive Fernleihen nur händisch über die Verbuchungstheke durch Mitarbeiter auf die Benutzerkonten gebucht bzw. auch nur so zurückgegeben werden können. Dies liegt an den verschiedenen Sicherungssystemen, wie z.B. Magnetstreifen und FRID-Tags. Durch die des Weiteren in den Bibliotheken unterschiedlichen Systematiken und Bibliotheksmanagementsysteme ist eine maschinelle Rückgabe sehr Fehler lastig und kann die Sicherungssysteme der gebenden Bibliotheken beschädigen, was unbedingt vermieden werden soll. Des Weiteren wäre eine Selbstabholung durch Kunden auch für die zu erweiternden Open Library Zeiten und ggf. Sonntagsöffnungen ohne Fachpersonal wichtig, auch wenn dies nur einen kleinen Teil des Gesamtausleihen ausmacht. Zur Lösung dieses Problems könnte, das in der ULB Düsseldorf seit Jahren bewährte System der RFID-Verbuchung übernommen werden. In der Regel werden alle hauseigenen Medien der ULB Düsseldorf mit Magnetstreifen gesichert und können so in Einzelverbuchung ausgeliehen und über einen Rückgabeautomaten zurückgegeben werden. Für die dort im hohen Maße aufkommenden Fernleihen konnte dies bei Open Library Zeiten ohne Fachpersonal so nicht umgesetzt werden und auch keine Hauseigene Magnetstreifen Sicherung genutzt werden, um die Bücher nicht zu beschädigen. Hier wurde ein Selbstabholbereich auf RFID-Basis zusätzlich eingerichtet. Des Weiteren wurde einer der zwei in der ULB stehenden Rückgabeautomaten auch auf die Annahme von RFID basierten Sicherungen erweitert. Zur praktischen Handhabung werden in die Fernleihmedien [*„reversible“* RFID-Tags nach dänischem Modell](https://publiscologne.th-koeln.de/frontdoor/deliver/index/docId/375/file/PB2013_Reymer_RFID.pdf) eingeklebt. Dabei handelt es sich um Tags, die jederzeit ganz einfach in Medien rein und raus geklebt werden können, ohne diese zu beschädigen bzw. sonst wie zu verändern. Des Weiteren ist die Beschreibung dieser Tags auch dominant gegenüber anderen RFID-Tags, sodass dieses System eine optimale Selbstverbuchung für Kunden in den Servicefreien Zeiten kostengünstig – auch für die Stadtbüchereien Düsseldorf – realisierbar macht, da hier schon von Grund auf RFID verwendet wird und die technischen Infrastruktur schon vorhanden ist. Lediglich die reversiblen RFID-Tags müssten organsiert werden, sowie einige Abläufe in der Fernleihabteilung. Zusätzlich müssten hier dann auch noch softwareoptimierte Prozesse initiiert werden, um eine reibungslose Funktion zu ermöglichen. So könnte in Zukunft auch über Open Library hinaus über *„Buchstationen“* im Sinne einer [DHL Packstation](https://www.dhl.de/de/privatkunden/pakete-empfangen/an-einem-abholort-empfangen/packstation-empfang.html?iaid=20200512210646572522f6cc25bd1e) im Außenbereich der Bibliotheken nachgedacht werden. Diese könnten über die bereits vorhandenen auf [NFC](https://www.netzwelt.de/nfc/index.html) basierten Bibliothekskarten mit zusätzlichem Tan-Verfahren eine 24/7 Rückgabe ermöglichen, oder mit Vorlauf auch eine Abholung von Medien nach Bibliotheksschließung aus der *„Buch-Packstation“* ermöglichen. Auch während einer Pandemie wie Covid-19 könnten so Medien unter Einhaltung der Kontaktbeschränkungen realisiert werden.
 
 
 ## 5. Roboter
@@ -64,8 +64,36 @@ Seit dem 07. November 2019, befindet sich des Weiteren ein [Pepper-Bot](https://
 
 ## 8. Quellenverzeichnis
 
-XyX
+### 8.1 Onlinequellen
 
-- [Stadtbüchereien Düsseldorf](https://www.duesseldorf.de/stadtbuechereien/) 1
+Zuletzt abgerufen am 12.05.2020
 
+- [Stadtbüchereien Düsseldorf](https://www.duesseldorf.de/stadtbuechereien/)
+
+- [aStec](https://www.astec.de/)
+
+- [ITK-Rheinland](https://www.itk-rheinland.de/)
+
+- [*„Ressource Description and Access"* (RDA)](https://www.rdatoolkit.org/about)
+
+- [Deutsche(n) Nationalbibliothek (DNB)](https://www.dnb.de/DE/Home/home_node.html)
+
+- [Single Sign-on System](https://www.computerwoche.de/a/wunderwaffe-sso,3545560)
+
+- [*„reversible“* RFID-Tags nach dänischem Modell](https://publiscologne.th-koeln.de/frontdoor/deliver/index/docId/375/file/PB2013_Reymer_RFID.pdf)
+
+- [DHL Packstation](https://www.dhl.de/de/privatkunden/pakete-empfangen/an-einem-abholort-empfangen/packstation-empfang.html?iaid=20200512210646572522f6cc25bd1e)
+
+- [NFC](https://www.netzwelt.de/nfc/index.html)
+
+- [Pepper-Bot](https://www.duesseldorf.de/fileadmin/_processed_/7/4/csm_191010pepper_55f6cb49f6.jpg)
+
+- [SoftBank Robotics](https://softbankrobotics.com/)
+
+- [Humanizing Technologies](https://www.humanizing.com/de/startseite/)
+
+- [NAOqi OS](https://technik.lpeshop.de/img/cms/SOFTBANK%20Pepper%20Depliant%20ENG%20num.pdf)
+
+
+### 8.2 Bildquellen
 
