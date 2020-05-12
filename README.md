@@ -64,4 +64,8 @@ Seit dem 07. November 2019, befindet sich des Weiteren ein [Pepper-Bot](https://
 
 ## 8. Quellenverzeichnis
 
+XyX
+
+- [Stadtbüchereien Düsseldorf](https://www.duesseldorf.de/stadtbuechereien/) 1
+
 
