@@ -64,7 +64,7 @@ Einen anderen Aspekt verfolgt die Zweigbibliothek Naturwissenschaften der Humbol
 
 ## 7. Quellenverzeichnis
 
-### - 7.1 Onlinequellen
+### 7.1 Onlinequellen
 
 Zuletzt abgerufen am: 12.05.2020
 
