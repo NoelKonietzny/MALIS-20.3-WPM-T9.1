@@ -62,7 +62,7 @@ Einen anderen Aspekt verfolgt die Zweigbibliothek Naturwissenschaften der Humbol
 ## 6. Fazit
 
 
-## - 7. Quellenverzeichnis
+## 7. Quellenverzeichnis
 
 ### - 7.1 Onlinequellen
 
