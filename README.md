@@ -21,9 +21,9 @@ Autor: Noel Konietzny
 6. Fazit
 
 7. Quellenverzeichnis
-- 7.1 Onlinequellen
+7.1 Onlinequellen
 
-- 7.2 Bildquellen
+7.2 Bildquellen
 
 
 ## 1. Einleitung
