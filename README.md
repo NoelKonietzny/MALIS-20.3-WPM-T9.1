@@ -27,7 +27,7 @@ Autor: Noel Konietzny
 
 ## 1. Einleitung
 
-Innerhalb der Stadtbüchereien Düsseldorf gibt es verschiedene Arbeitsbereiche die sehr Daten intensiv sind. Dabei gibt es in vielen Bereichen Möglichkeiten einer Optimierung. Hier sollen einige kleine Beispiele genannt und erläutert werden. Des Weiteren werden hier nur kurz andere Bereiche erwähnt, die ebenfalls von Software und Umstrukturierungsprozessen erheblich profitieren würden.
+Innerhalb der Stadtbüchereien Düsseldorf gibt es verschiedene Arbeitsbereiche die sehr datenintensiv sind. Dabei gibt es in vielen Bereichen Möglichkeiten einer Optimierung. Hier sollen einige kleine Beispiele genannt und erläutert werden. Des Weiteren werden hier nur kurz andere Bereiche erwähnt, die ebenfalls von Software und Umstrukturierungsprozessen erheblich profitieren würden.
 
 
 ## 2. Library Management System aDis/BMS
