@@ -51,11 +51,8 @@ Im Weiteren ist es so, dass passive Fernleihen nur händisch über die Verbuchun
 
 ## 5. Roboter
 
-![Pepper-Bot](https://www.duesseldorf.de/fileadmin/_processed_/7/4/csm_191010pepper_55f6cb49f6.jpg) Seit dem 07. November 2019, befindet                                                                                                                                                                                                                                                                                                                                                                                                              s                                                                                                   sich des Weiteren ein Pepper-Bot        
-                                                                                                    der Firma [SoftBank Robotics](https://softbankrobotics.com/) im Bestand                                                                                                       der Stadtbüchereien Düsseldorf. Dieser 
-                                                                                                    wurde durch die Firma [Humanizing 
-                                                                                                    Technologies](https://www.humanizing.com/de/startseite/) vertrieben und mit Softwareapplikationen versehen. Dieser als Assistent gedachte Roboter bedarf einer großen Menge an Daten, sowie Zeit zur Einpflegung und Programmierung.
-
+![Pepper-Bot](https://www.duesseldorf.de/fileadmin/_processed_/7/4/csm_191010pepper_55f6cb49f6.jpg) 
+Seit dem 07. November 2019, befindet sich des Weiteren ein Pepper-Bot der Firma [SoftBank Robotics](https://softbankrobotics.com/) im                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Bestand der Stadtbüchereien Düsseldorf. Dieser wurde durch die Firma [Humanizing Technologies](https://www.humanizing.com/de/startseite/) vertrieben und mit Softwareapplikationen versehen. Dieser als Assistent gedachte Roboter bedarf einer großen Menge an Daten, sowie Zeit zur Einpflegung und Programmierung.
 
 
 ## 6. Ausblick
