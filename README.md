@@ -69,7 +69,7 @@ Deren Potential durch den Einsatz von Software eine Vereinfachung für eine tran
 
 ### 7.1 Onlinequellen
 
-Zuletzt abgerufen am: 12.05.2020
+Zuletzt abgerufen am: 26.05.2021
 
 - [Stadtbüchereien Düsseldorf](https://www.duesseldorf.de/stadtbuechereien/)
 
