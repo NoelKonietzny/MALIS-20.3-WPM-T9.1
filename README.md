@@ -1,5 +1,5 @@
 # MALIS 20.3 WPMT 9.1
-Repository for MALIS 19.3 WPM T9.1
+Repository for MALIS 20.3 WPM T9.1
 
 Datenbasierte und datenfokussierte Aktivitäten in der eigenen Bibliothek, sowie deren Potential zur Vereinfachung durch den Einsatz von Software für eine transparentere und nachhaltigere Nutzung in der Zukunft.
 
